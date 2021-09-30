@@ -1,0 +1,5 @@
+{
+	"ip":"PRO_BOIZ2278HP.aternos.me",
+	"port": "22761",
+	"name": "Ghochu"
+}
